@@ -1,4 +1,23 @@
 box02
-=====
+================
 
-Scratch: Demonstrate the operation of the new "Comment" and "Repeat" blocks.
+Scratch: Demonstrate the operation of the "Comment" and "Repeat" Blocks
+
+"Comment" - Ignored block to provide user information
+
+"Repeat" - Repeat the specified number of times
+
+### Project Information
+```
+Type              : Scratch
+Version           : 1.0.0
+Author            : mykepredko
+Firmware          : 42
+```
+
+### Additional Information
+This project requires a Jade Robot to run!
+
+### License
+This software is provided "as is" without any expressed or implied warranties.  In no case shall the author or any contributors be liable for any damages caused by the use of this software.
+
